@@ -1,1 +1,1 @@
-Trying to learn about how stack works by making a simple stack simulator. 
+A little simple simualtor with array for me to understand how stack theoretically work.
